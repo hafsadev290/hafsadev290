@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hafsadev290
-- 👀 I’m interested in Python, data science and AI.
-- 🌱 I’m currently learning .NET 5
+- 👀 I’m interested in Python, web scraping and web development (Django).
 - 📫 How to reach me : h.y1qoubi@gmail.com
 
 <!---
